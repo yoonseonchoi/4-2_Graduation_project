@@ -17,3 +17,7 @@ S&P500 주가 데이터로 실험을 진행하였으며 DLinear, Pyraformer, Pat
 ### ESTIMATE
 ![image](https://github.com/yoonseonchoi/4-2_Graduation_project/assets/102509278/95dc9043-f0cf-4b37-8821-85423be9f678)
 [4] Thanh Trung Huynh, Minh Hieu Nguyen, Thanh Tam Nguyen, Phi Le Nguyen, Matthias Weidlich, Quoc Viet Hung Nguyen, Karl Aberer. Efficient integration of multi-order dynamics and internal dynamics in stock movement prediction. arXiv preprint arXiv:2211.07400, 2022.
+
+## Results
+![image](https://github.com/yoonseonchoi/4-2_Graduation_project/assets/102509278/188dfbc0-adef-454e-a03a-8c5a6f2ce820)
+![image](https://github.com/yoonseonchoi/4-2_Graduation_project/assets/102509278/3e6960a9-2f4a-4fba-8d96-20f8e775d823)
